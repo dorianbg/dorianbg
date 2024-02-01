@@ -1,5 +1,4 @@
-
-<h1 align='center'> Dorian Beganovic 👨‍💻 </h1>
+<h1 align='center'> Dorian 👨‍💻 </h1>
 
 <p align='left'>
   I am a Software engineer based in London, UK. <br>
@@ -13,19 +12,19 @@
 ## Technologies
 
 **Infrastructure and DevOps**
-<div>
+<p align='left'>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Helm&color=0F1689&logo=Helm&logoColor=FFFFFF&label=" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</p>
 
 **Programming languages**
-<div>
+<p align='left'>
     <img style="vertical-align:middle" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="vertical-align:middle"src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img style="vertical-align:middle" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</p>
 
 **Data Base - Data Warehouse - Data Lake**
 <p align='left'>
@@ -51,3 +50,5 @@
   <a href="https://plotly.com/"><img src="https://img.shields.io/badge/plotly_dash-3670A0.svg?&style=for-the-badge&logo=plotly&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/streamlit-red.svg?&style=for-the-badge&logo=streamlit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## Certifications
