@@ -26,7 +26,7 @@
     <img style="vertical-align:middle" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Data Base - Data Warehouse - Data Lake**
+**Databases**
 <p align='left'>
   <img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DuckDB&color=222222&logo=DuckDB&logoColor=FFF000&label=" />&nbsp;&nbsp;&nbsp;&nbsp;
