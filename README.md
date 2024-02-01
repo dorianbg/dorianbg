@@ -52,3 +52,8 @@
 </p>
 
 ## Certifications
+
+[Azure Administrator Associate](https://learn.microsoft.com/en-us/users/dorianbeganovic-7043/credentials/9a7c5259cb40f8ae)  
+[Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/dorianbeganovic-7043/credentials/3d931b5bae6f5fef)   
+[Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/dorianbeganovic-7043/credentials/a7929182580114e9)   
+[Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/ff2b6a98-4269-4f8e-bf88-92d9ab83a10f/public_url)
