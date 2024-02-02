@@ -1,4 +1,4 @@
-<h1 align='center'> Dorian 👨‍💻 </h1>
+<h1 align='center'> Hi, I'm Dorian 👨‍💻 </h1>
 
 <p align='left'>
   I am a Software engineer based in London, UK. <br>
